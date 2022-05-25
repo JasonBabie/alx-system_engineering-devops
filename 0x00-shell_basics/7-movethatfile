@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/betty /tmp/my_first_birthday
+mv /tmp/betty /tmp/my_first_birthday/
